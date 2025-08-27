@@ -1,0 +1,11 @@
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/bin/Debug/net8.0/PaymentGateway.deps.json
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/bin/Debug/net8.0/PaymentGateway.dll
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/bin/Debug/net8.0/PaymentGateway.pdb
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/PaymentGateway.GeneratedMSBuildEditorConfig.editorconfig
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/PaymentGateway.AssemblyInfoInputs.cache
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/PaymentGateway.AssemblyInfo.cs
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/PaymentGateway.csproj.CoreCompileInputs.cache
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/PaymentGateway.dll
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/refint/PaymentGateway.dll
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/PaymentGateway.pdb
+/home/jyothikrishna/Documents/SoftwareEngineeringCourse/PaymentGateway-Abstraction-DotNet/src/PaymentGateway/obj/Debug/net8.0/ref/PaymentGateway.dll
